@@ -5,9 +5,13 @@ This allows you to create a custom fingerprint using an hcaptcha req token
 
 This makes it a lot easier when solving captchas due to this dynamicly generating the hsl fingerprint
 
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/71cbb4f0-c289-4eb9-8091-d8be410325cd">
+
 # More Info
 
-The current HSL verison this is reversed on is `0da7bbe`
+The current HSL verison this is reversed on is `9558cb7d3137b7fb08f830d9a7e24f0114211b7450d68c13703df8c17692aed3`
+
+I have added more debugging int he python script if anyone wnats to see more on how it functions
 
 You can find the orgiinal hsl.js script along with the hsl.py script in this repo
 
@@ -22,4 +26,4 @@ Please star
 
 This took about 30 minutes to do, so please create an issue if there are any problems 
 
-I'll continue to maintain this if I get 10 stars 
+This is an active project & I do update it often
